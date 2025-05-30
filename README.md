@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Healthcare Chatbot
 
 A modern, responsive AI-powered healthcare chatbot built with Next.js, TypeScript, and Tailwind CSS.
@@ -173,3 +174,6 @@ For support, please open an issue in the GitHub repository.
 ---
 
 **⚠️ Medical Disclaimer**: This chatbot is for informational purposes only and should not replace professional medical advice. In case of medical emergencies, contact emergency services immediately.
+=======
+# AI_healthcare_chatbot
+>>>>>>> 190414b54346ea93e23296a35d98b43f36223f05
